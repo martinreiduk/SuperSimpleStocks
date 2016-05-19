@@ -1,0 +1,6 @@
+c:\users\martin reid\documents\visual studio 2013\Projects\SuperSimpleStocks\SuperSimpleStocks\bin\Debug\SuperSimpleStocks.exe.config
+c:\users\martin reid\documents\visual studio 2013\Projects\SuperSimpleStocks\SuperSimpleStocks\bin\Debug\SuperSimpleStocks.exe
+c:\users\martin reid\documents\visual studio 2013\Projects\SuperSimpleStocks\SuperSimpleStocks\bin\Debug\SuperSimpleStocks.pdb
+c:\users\martin reid\documents\visual studio 2013\Projects\SuperSimpleStocks\SuperSimpleStocks\obj\Debug\SuperSimpleStocks.csprojResolveAssemblyReference.cache
+c:\users\martin reid\documents\visual studio 2013\Projects\SuperSimpleStocks\SuperSimpleStocks\obj\Debug\SuperSimpleStocks.exe
+c:\users\martin reid\documents\visual studio 2013\Projects\SuperSimpleStocks\SuperSimpleStocks\obj\Debug\SuperSimpleStocks.pdb
