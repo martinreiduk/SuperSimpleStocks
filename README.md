@@ -9,9 +9,13 @@ The class GBCE is the main class delivering the requirements.
 To use, create an instance of this class. The requirements are made available through the following functions on this class:
 
 CalculateDividendYield(string stockSymbol)
+
 CalculatePERatio(string stockSymbol)
+
 CalculateStockPrice(string stockSymbol)
+
 RecordTrade(string stockSymbol, DateTime tradeDate, TransactionType tradeType, int quantity, decimal price)
+
 CalculateGeometricMean()
 
 Program.cs is a console application to demonstrate and test the functionality of the system. This carries out the following:
